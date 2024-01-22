@@ -13,8 +13,8 @@ Hi there 👋. I am Svitlana Botiuk, and my basic education is electrical engine
 
 ### My stats:
 <p align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botiuk&layout=donut&theme=solarized-dark" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Botiuk&show_icons=true&theme=solarized-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Botiuk&layout=donut&theme=solarized-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Botiuk&show_icons=true&theme=solarized-dark" />
 </p>
 
 <!--
