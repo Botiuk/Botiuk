@@ -1,9 +1,10 @@
 Hi there 👋. I am Svitlana Botiuk, and my basic education is electrical engineering 🎓. However, I am currently learning web programming, here is [my resume](https://drive.google.com/file/d/1SeN8ct1nN83rJl0E-vd3FOrRjiCSWwYe/view?usp=sharing). Fun fact about me ☺️: I take photos 📷 and text 📄 reports on amateur sports competitions (mostly soccer ⚽) and have been posting them on my [Facebook blog](https://facebook.com/fzvphoto) for over 5 years. 
 
 📫 How to reach me:
-
-[![Mail Badge](https://img.shields.io/badge/-Svitlana_Botiuk-red?style=flat&labelColor=red&logo=gmail&logoColor=white)](mailto:svetabotiuk@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-Svieta_Botiuk-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white)](https://discordapp.com/users/1125302872515543141)
+<p align="center">
+  <a href="mailto:svetabotiuk@gmail.com"><img src="https://img.shields.io/badge/-Svitlana_Botiuk-red?style=flat&labelColor=red&logo=gmail&logoColor=white" /></a>
+  <a href="https://discordapp.com/users/1125302872515543141"><img src="https://img.shields.io/badge/-Svieta_Botiuk-5865f2?style=flat&labelColor=5865f2&logo=discord&logoColor=white" /></a>
+</p>
 
 ### Tools and Languages:
 <p align="center">
