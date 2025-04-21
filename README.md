@@ -1,4 +1,4 @@
-Hi there 👋. I am Svitlana Botiuk, and my basic education is electrical engineering 🎓. However, I am currently learning web programming, here is [my resume](https://drive.google.com/file/d/1gQ8OtWv4xxDXovQXNrhSoY9mei710SH5/view?usp=sharing). Fun fact about me ☺️: Since 2019, I have taken photos 📷 and written text 📄 reports on amateur sports competitions (mostly soccer ⚽) and posted them on my [Facebook blog](https://facebook.com/fzvphoto).
+Hi there 👋. I am Svitlana Botiuk, and my basic education is electrical engineering 🎓. However, I am currently learning web programming. Here is [my resume](https://drive.google.com/file/d/1QUyMrOLSJc07Y5epDclzPaTN2UwQYdLm/view?usp=sharing). Fun fact about me ☺️: Since 2019, I have taken photos 📷 and written text 📄 reports on amateur sports competitions (mostly soccer ⚽) and posted them on my [Facebook blog](https://facebook.com/fzvphoto).
 
 📫 How to reach me:
 <p align="center">
